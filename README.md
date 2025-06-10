@@ -3,10 +3,12 @@
 ## Задание 1
 
 [Конфигурационный файл к заданию 1](/haproxy_config/zadanie_01_haproxy.cfg)  
+
 ![скриншот к заданию 1](/pic/pic01.png)
 
 ## Задание 2
 
 [Конфигурационный файл к заданию 2](/haproxy_config/zadanie_02_haproxy.cfg)  
+
 ![скриншот к заданию 2](/pic/pic02.png)
 
